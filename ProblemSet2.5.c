@@ -1,8 +1,13 @@
 #include <stdio.h>
 int main(void)
 {
-    for(int stacks = 1; stacks > 8; stacks++)
-    {
-        printf("%i",stacks);
+    for(int stack = 1; stack < 9; stack++)
+    { 
+        for (int x = 0; x < stack; x++)
+        {
+            printf("#");
+        }    
+           
+        printf("\n");
     }
 }

@@ -1,0 +1,4 @@
+Loop: Set variable "stack" to 1. Loop if "stack" is less than 9, adding 1 to "stack" every loop
+    Loop: Set variable "x" to 0. Loop if "x" is less than "stack", adding 1 to "x" every loop
+            print "#"
+    print new line
