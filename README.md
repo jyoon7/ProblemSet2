@@ -21,6 +21,9 @@ LMSC-261-FA2019
 1. To learn how to use variables in C.
 2. Utilize loops to create a pyramid in the CLI.
 
+## Build and Run commands
+Compile with gcc, run with .\
+
 ## How to compile
 gcc
 
